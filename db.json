@@ -4,31 +4,31 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 11
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 13
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 10
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 8
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 3
     },
     {
       "id": 6,
@@ -40,13 +40,43 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 1
+      "likes": 2
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": "0",
+      "id": 9
+    },
+    {
+      "name": "Panda",
+      "image": "https://untamedscience.com/wp-content/uploads/2014/12/Panda-web-thumbnail01.jpg",
+      "likes": 8,
+      "id": 10
+    },
+    {
+      "name": "Panda 2",
+      "image": "https://yt3.ggpht.com/a/AATXAJyywJIHAgBbBYYsEHP1zpQWe_ZU94frV-P6Ng=s900-c-k-c0xffffffff-no-rj-mo",
+      "likes": 13,
+      "id": 11
+    },
+    {
+      "name": "NotAki",
+      "image": "https://th.bing.com/th/id/OIP.h8cAkozL6tz6qyh3CWoTTgHaFj?pid=ImgDet&rs=1",
+      "likes": 1,
+      "id": 12
+    },
+    {
+      "name": "Red Panda",
+      "image": "https://www.shropshirestar.com/resizer/2mMmenF1b60foMRv26dI4GyL6HY=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-shropshirestar-mna.s3.amazonaws.com/public/HRNOIQUKYJDBTDLMIYDE22M6I4.jpg",
+      "likes": 3,
+      "id": 13
     }
   ]
 }
